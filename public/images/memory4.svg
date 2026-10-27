@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff1eb" />
+      <stop offset="50%" stop-color="#fddb92" />
+      <stop offset="100%" stop-color="#ff9a9e" />
+    </linearGradient>
+    <filter id="shadow4" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#ea580c" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <rect width="400" height="400" rx="28" fill="url(#bg4)" />
+  <text x="60" y="80" font-size="28" fill="#ffffff" opacity="0.9">🪁</text>
+  <text x="320" y="80" font-size="28" fill="#ffffff" opacity="0.9">☀️</text>
+  <text x="320" y="330" font-size="24" fill="#ffffff" opacity="0.9">✨</text>
+  <text x="60" y="330" font-size="24" fill="#ffffff" opacity="0.9">🌾</text>
+  <circle cx="200" cy="180" r="100" fill="rgba(255, 255, 255, 0.5)" filter="url(#shadow4)"/>
+  <circle cx="200" cy="180" r="92" fill="#fffdfa" />
+  <text x="200" y="195" font-size="70" text-anchor="middle" dominant-baseline="middle">🪁🏡</text>
+  <rect x="60" y="295" width="280" height="48" rx="24" fill="rgba(255,255,255,0.95)" filter="url(#shadow4)" />
+  <text x="200" y="325" font-family="'Quicksand', sans-serif" font-weight="700" font-size="16" fill="#ea580c" text-anchor="middle">Sankranti Kites & Sunshine 🪁</text>
+</svg>
